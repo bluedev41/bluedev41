@@ -74,7 +74,7 @@
 ## 𝐖𝐡𝐚𝐭 I 𝐂𝐚𝐧 𝐃𝐨
 
 <div>
-<img align="right" alt="GIF" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia4.giphy.com%2Fmedia%2FQNFhOolVeCzPQ2Mx85%2Fgiphy.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fchange-logs&tbnid=qhjloE6qEzATIM&vet=12ahUKEwi8uKiD9Y38AhVWEXcKHV2YCAwQMygcegUIARC8Ag..i&docid=NNevR1cpUkCf-M&w=480&h=270&q=computing%20monkey%20in%20gif%20image&ved=2ahUKEwi8uKiD9Y38AhVWEXcKHV2YCAwQMygcegUIARC8Ag" width="500" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/pFwRzOLfuGHok/giphy.gif" width="500" />
  
 ### 𝘉𝘶𝘪𝘭𝘥𝘪𝘯𝘨 𝘢𝘯 𝘌𝘊 𝘴𝘪𝘵𝘦 𝘧𝘰𝘳 𝘣𝘶𝘴𝘪𝘯𝘦𝘴𝘴
 𝘐𝘵 𝘪𝘴 𝘱𝘰𝘴𝘴𝘪𝘣𝘭𝘦 𝘵𝘰 𝘤𝘳𝘦𝘢𝘵𝘦 𝘢𝘯 𝘌𝘊 𝘴𝘪𝘵𝘦 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯. 𝘊𝘰𝘮𝘱𝘢𝘵𝘪𝘣𝘭𝘦 𝘸𝘪𝘵𝘩 𝘦𝘢𝘤𝘩 𝘱𝘭𝘢𝘵𝘧𝘰𝘳𝘮.
