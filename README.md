@@ -93,5 +93,5 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=BestSilverTiger.BestSilverTiger" />
 <img align="right" src="https://img.shields.io/github/followers/BestSilverTiger?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=BestSilverTiger&show_icons=true&theme=merko&count_private=true">
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko&count_private=true">
+<img align="left" height="150px" src="https://github.com/YuDev0401/YuDev0401/blob/main/1.jpg">
+<img align="right" height="150px" src="https://github.com/YuDev0401/YuDev0401/blob/main/2.jpg">
