@@ -75,9 +75,9 @@
 
 I am a chief of MONKEY-DEV team and an agent of a marketing company.
 
-## If you want to see my prifile
+## Are you interested in my profile
 
-Click here!
+[Click here](https://github.com/YuDev0401.github.io)
 
 
 ## 𝐖𝐡𝐚𝐭 I 𝐂𝐚𝐧 𝐃𝐨
