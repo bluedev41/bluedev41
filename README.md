@@ -70,7 +70,16 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" width="100"></td>
    </tr>
   </table>
-  
+
+## 𝐖𝐡o am I?
+
+I am a chief of MONKEY-DEV team and an agent of a marketing company.
+
+## If you want to see my prifile
+
+Click here!
+
+
 ## 𝐖𝐡𝐚𝐭 I 𝐂𝐚𝐧 𝐃𝐨
 
 <div>
@@ -92,6 +101,3 @@
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=BestSilverTiger.BestSilverTiger" />
 <img align="right" src="https://img.shields.io/github/followers/BestSilverTiger?label=Follow&style=social" />
-<h1 align="center"></h1>
-<img align="left" height="150px" src="https://github.com/YuDev0401/YuDev0401/blob/main/1.jpg">
-<img align="right" height="150px" src="https://github.com/YuDev0401/YuDev0401/blob/main/2.jpg">
