@@ -73,7 +73,7 @@
 
 ## 𝐖𝐡o am I?
 
-I am a chief of MONKEY-DEV team and an agent of a marketing company.
+I am a chief of Blancian team and an agent of a marketing company.
 
 ## Are you interested in my profile
 
