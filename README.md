@@ -73,7 +73,7 @@
 
 ## 𝐖𝐡o am I?
 
-I am a chief of Blancian team and an agent of a marketing company.
+-- && CTO && of Blancian team -- .
 
 ## Are you interested in my profile
 
