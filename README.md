@@ -73,11 +73,11 @@
 
 ## 𝐖𝐡o am I?
 
--- && CTO && of Blancian team -- .
+-- CTO of Blancian team -- .
 
 ## Are you interested in my profile
 
-[Click here](https://yudev0401.github.io/)
+[Click here](https://github.com/bluedev41.github.io/)
 
 
 ## 𝐖𝐡𝐚𝐭 I 𝐂𝐚𝐧 𝐃𝐨
