@@ -71,10 +71,6 @@
    </tr>
   </table>
 
-## 𝐖𝐡o am I?
-
--- CTO of Blancian team -- .
-
 ## Are you interested in my profile
 
 [Click here](https://github.com/bluedev41.github.io/)
